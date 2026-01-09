@@ -1,11 +1,10 @@
 # Estafas de Bizum
 
-Este proyecto va sobre las estafas que se hacen usando Bizum y cómo no caer en ellas.
-
-Lo he hecho para explicar de forma sencilla cómo engañan a la gente.
+Este es un pequeño proyecto sobre las estafas que se hacen usando Bizum.
+Lo he hecho para explicar cómo funcionan y cómo no caer en ellas.
 
 ## ¿Qué es una estafa de Bizum?
-Es cuando alguien te engaña para que envíes o aceptes dinero y al final te lo roban.
+Es cuando alguien te engaña para que envíes o aceptes dinero y al final te lo quitan.
 
 ## Estafas más comunes
 
@@ -13,18 +12,18 @@ Es cuando alguien te engaña para que envíes o aceptes dinero y al final te lo 
 
 Esta es una de las más peligrosas.
 
-Funciona así:  
-Una persona te envía dinero por Bizum y luego te escribe diciendo que se ha equivocado y que se lo devuelvas.
+Funciona así:
+Alguien te envía dinero por Bizum y luego te escribe diciendo que se ha equivocado y que se lo devuelvas.
 
-El problema es que ese dinero muchas veces viene de una cuenta robada.  
-Cuando tú lo devuelves, el banco cancela el primer pago, pero el dinero que tú enviaste sí se pierde.
+El problema es que ese dinero suele venir de una cuenta robada.
+Cuando tú lo devuelves, el banco anula el primer pago, pero el dinero que tú enviaste sí se pierde.
 
 Al final pierdes tu dinero.
 
-Ejemplo típico:  
+Ejemplo típico:
 “Hola, perdón, me he equivocado y te he enviado 50€. ¿Me lo devuelves?”
 
-No devuelvas el dinero por tu cuenta.  
+Nunca devuelvas el dinero por tu cuenta.
 Si alguien te manda dinero por error, lo mejor es hablar con tu banco o con Bizum.
 
 ---
