@@ -1,30 +1,25 @@
 # Estafas de Bizum
-Este es un pequeño proyecto sobre las estafas que se hacen usando Bizum.
-Lo he hecho para explicar cómo funcionan y cómo no caer en ellas.
-## ¿Qué es una estafa de Bizum?
-Es cuando alguien te engaña para que envíes o aceptes dinero y al final te lo quitan.
-## Estafas más comunes
-### La estafa del “te he enviado dinero por error”
-Esta es una de las más peligrosas.
-Funciona así:
-Alguien te envía dinero por Bizum y luego te escribe diciendo que se ha equivocado y que se lo devuelvas.
 
-El problema es que ese dinero suele venir de una cuenta robada.
+Las estafas de Bizum son engaños en los que alguien intenta que envíes o aceptes dinero para robártelo.
 
-Cuando tú lo devuelves, el banco anula el primer pago, pero el dinero que tú enviaste sí se pierde.
+## Estafa más común
+La más habitual es cuando alguien te envía dinero por error y luego te pide que se lo devuelvas.  
+Ese primer pago suele ser fraudulento, y cuando tú devuelves el dinero, pierdes el tuyo.
 
-Al final pierdes tu dinero.
+## Otras estafas
+- Falsos compradores  
+- Mensajes que dicen que has recibido dinero  
+- Enlaces que imitan al banco o a Bizum  
+<img width="880" height="495" alt="imagen" src="https://github.com/user-attachments/assets/325c443d-81b7-411f-8f91-1c5b46107a53" />
 
-Ejemplo típico:
-Hola, perdón, me he equivocado y te he enviado 50€. ¿Me lo devuelves?
-Nunca devuelvas el dinero por tu cuenta.
-Si alguien te manda dinero por error, lo mejor es hablar con tu banco o con Bizum.
-### Otras estafas
- Falsos compradores en Wallapop o Instagram  
- Mensajes que dicen que has recibido dinero  
- Enlaces falsos que parecen del banco  
 ## Cómo protegerte
- No envíes dinero a desconocidos  
- Bizum no manda enlaces por mensajes  
- No des códigos ni datos bancarios  
- Si algo te parece raro, mejor no hacer nada  
+- No envíes dinero a desconocidos  
+- No abras enlaces sospechosos  
+- No compartas datos ni códigos  
+- Si dudas, contacta con tu banco
+
+### Estos son dos enlaces de noticias sobre las estafas de Bizum:
+
+- https://www.cuatro.com/noticias/economia/20250914/estafa-bizum-que-hacer-recuperar-dinero_18_016367331.html?utm_source=chatgpt.com
+
+- https://www.infobae.com/espana/2025/09/16/la-policia-advierte-de-una-nueva-estafa-sobre-la-venta-de-coches-online-revisa-siempre-las-operaciones-con-bizum/?utm_source=chatgpt.com
